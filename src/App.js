@@ -31,18 +31,10 @@ function App() {
       <div className="card">
         {/* Header Section */}
         <div className="header">
-          <div className="avatar">👨‍💻</div>
-          <h1 className="name">Your Name</h1>
+          <h1 className="name">Saksham kala</h1>
           <p className="title">B.Tech Student | Cloud Developer</p>
-          
-          {/* Social Links */}
-          <div className="social-links">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a href="mailto:your.email@example.com">Email</a>
-          </div>
         </div>
-
+        
         {/* Visitor Counter */}
         <div className="visitor-section">
           <h3>👁️ Visitor Count</h3>
